@@ -1,0 +1,1 @@
+<div id="bawah"align=center> Copyright by MAKUS CORP</div>
